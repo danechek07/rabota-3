@@ -11,11 +11,11 @@ int main() {
     float tons;
     const float POUND_TO_KG = 0.453592;
 
-    printf("Введите вес в фунтах: ");
+    printf("Р’РІРµРґРёС‚Рµ РІРµСЃ РІ С„СѓРЅС‚Р°С…: ");
     scanf("%f", &pounds);
 
     if (pounds < 0) {
-        printf("Ошибка: вес не может быть отрицательным!\n");
+        printf("РћС€РёР±РєР°: РІРµСЃ РЅРµ РјРѕР¶РµС‚ Р±С‹С‚СЊ РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Рј!\n");
         return 1;
     }
 
@@ -23,9 +23,9 @@ int main() {
     grams = kilograms * 1000;
     tons = kilograms / 1000;
 
-    printf("Вес в килограммах: %.2f кг\n", kilograms);
-    printf("Вес в граммах: %.2f г\n", grams);
-    printf("Вес в тоннах: %.2f т\n", tons);
+    printf("Р’РµСЃ РІ РєРёР»РѕРіСЂР°РјРјР°С…: %.2f РєРі\n", kilograms);
+    printf("Р’РµСЃ РІ РіСЂР°РјРјР°С…: %.2f Рі\n", grams);
+    printf("Р’РµСЃ РІ С‚РѕРЅРЅР°С…: %.2f С‚\n", tons);
 
     return 0;
 }
