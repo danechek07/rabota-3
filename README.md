@@ -27,46 +27,12 @@
 <img width="493" height="702" alt="chema_3" src="https://github.com/user-attachments/assets/a301ef69-5bb0-4b4a-b873-c11a5b024871" />
 
 
-[chema_3.drawio](https://github.com/danechek07/rabota-3/blob/main/chema3.png)
+[chema_3.drawio](https://github.com/danechek07/rabota-3/blob/main/chema_3.png)
 
 ## 2. Реализация программы
 
 ```c
-#define _CRT_SECURE_NO_WARNINGS
-#include <stdio.h>
-#include <locale.h>
-
-int main() {
-    setlocale(LC_ALL, "Russian");
-
-    float pounds;    // Вес в фунтах
-    float kilograms; // Вес в килограммах
-    float grams;     // Вес в граммах
-    float tons;      // Вес в тоннах
-    const float POUND_TO_KG = 0.453592; // Константа для перевода фунтов в кг
-
-    // Запрос ввода веса
-    printf("Введите вес в фунтах: ");
-    scanf("%f", &pounds);
-
-    // Проверка на отрицательный вес
-    if (pounds < 0) {
-        printf("Ошибка: вес не может быть отрицательным!\n");
-        return 1;
-    }
-
-    // Пересчет веса
-    kilograms = pounds * POUND_TO_KG;
-    grams = kilograms * 1000;
-    tons = kilograms / 1000;
-
-    // Вывод результатов с двумя знаками после запятой
-    printf("Вес в килограммах: %.2f кг\n", kilograms);
-    printf("Вес в граммах: %.2f г\n", grams);
-    printf("Вес в тоннах: %.2f т\n", tons);
-
-    return 0;
-}
+(https://github.com/danechek07/rabota-3/blob/main/%233.c)
 ```
 
 ## 3. Результаты работы программы
