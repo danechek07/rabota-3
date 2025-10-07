@@ -27,7 +27,7 @@
 <img width="493" height="702" alt="chema3" src="https://github.com/user-attachments/assets/8fba22b1-31cf-4fd3-95be-76e3bcff446f" />
 
 
-[Задание3.drawio](https://github.com/user-attachments/files/22751588/3.drawio)
+[chema3.drawio]([https://github.com/user-attachments/files/22751588/3.drawio](https://github.com/danechek07/rabota-3/blob/main/chema3.png))
 
 ## 2. Реализация программы
 
