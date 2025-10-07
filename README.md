@@ -24,7 +24,8 @@
 7. **Конец**
 
 ### Блок-схема
-<img width="4124" height="2444" alt="image" src="https://github.com/user-attachments/assets/fbf4e61d-1f4c-4848-b398-42619b5f3c4c" />
+<img width="493" height="702" alt="chema3" src="https://github.com/user-attachments/assets/8fba22b1-31cf-4fd3-95be-76e3bcff446f" />
+
 
 [Задание3.drawio](https://github.com/user-attachments/files/22751588/3.drawio)
 
