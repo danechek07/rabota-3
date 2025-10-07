@@ -24,7 +24,9 @@
 7. **Конец**
 
 ### Блок-схема
-<img width="407" height="833" alt="Блок-схема" src="https://github.com/user-attachments/assets/c850b863-102a-4ea0-b3cc-c163ae05e879" />
+<img width="4124" height="2444" alt="image" src="https://github.com/user-attachments/assets/fbf4e61d-1f4c-4848-b398-42619b5f3c4c" />
+
+[Задание3.drawio](https://github.com/user-attachments/files/22751588/3.drawio)
 
 ## 2. Реализация программы
 
